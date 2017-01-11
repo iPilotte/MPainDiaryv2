@@ -16,7 +16,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".ProfileEditActivity" />
-        <activity android:name=".DiaryListActivity"></activity>
+        <activity android:name=".DiaryListActivity" />
+        <activity android:name=".DiaryCreateActivity"></activity>
     </application>
 
 </manifest>
