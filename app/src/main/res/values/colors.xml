@@ -3,4 +3,10 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="mDiaryBlue">#225378</color>
+    <color name="mDiaryLightBlue">#1695a3</color>
+    <color name="mDiaryReallyLightBlue">#acf0f2</color>
+    <color name="mDiaryAlmostWhite">#f3ffe2</color>
+    <color name="mDiaryOrange">#eb7f00</color>
+    <color name="mDiaryGray">#ededed</color>
 </resources>
